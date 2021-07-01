@@ -4,7 +4,7 @@ This project attempts to visualise various sorting algorithms by representing ea
 Currently implemented algorithms:
   - Bubble sort
   - Insertion sort
-  - Merge sort
+  - Merge sort (not working as intended)
 More may be added in the future.
 
 After each step in the algorithm, there is a short delay to make the sorting visible on screen. The length of this delay
